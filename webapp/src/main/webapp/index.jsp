@@ -4,7 +4,7 @@
     <p>You have to fill this form for registering</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Please Enter your Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     
