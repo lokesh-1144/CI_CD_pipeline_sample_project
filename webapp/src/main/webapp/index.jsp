@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Registration page for you!!! </h1>
+    <h1> finally deployiong on kube </h1>
     <p>You have to fill this form for registering</p>
     <hr>
      
@@ -25,7 +26,7 @@
     <hr>
     <br>
 
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">Register please you shoudl register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Log in</a>.</p>
